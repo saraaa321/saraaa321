@@ -1,6 +1,6 @@
 # 👩‍💻 Sara Cotrim Perroni
 
-Olá! Sou a **Sara Cotrim Perroni**, formada no curso técnico de **Desenvolvimento de Sistemas pelo SENAI**. Tenho experiência e familiaridade com diversas linguagens de programação, sempre buscando aprender e evoluir na área de tecnologia.
+Olá! Sou a **Sara Cotrim Perroni**, formada no curso técnico de **Desenvolvimento de Sistemas pelo SENAI**, pórem ainda iniciante no ramo. Tenho experiência e familiaridade com diversas linguagens de programação, sempre buscando aprender e evoluir na área de tecnologia.
 
 ✨ Tenho **objetivos e metas bem definidos**, e acredito que a **adaptação constante** é essencial para o aperfeiçoamento profissional. Estou sempre aberta a mudanças que tragam melhorias para o meu trabalho e crescimento como desenvolvedora.
 
